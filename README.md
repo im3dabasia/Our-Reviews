@@ -3,7 +3,7 @@
 ## ReactJs  [Live Demo](https://beautiful-chimera-010c8d.netlify.app/)
 
 
-I have created a UI whereby data such as messages, profile pictures of several users in dynamically displayed in a log.
+So the reviews section is common in almost every webapp one visits today, say like ecommerce sites, dating sites, blogs and discussion forums etc So here in this app/ a portion of the app i understood how does the cool looking review section internally work. I realised the importance of data structures like array and queues. Also got to understand the power of some special CSS properties like visibility and display.
 
 ![Alt Text](https://github.com/im3dabasia/Our-Reviews/blob/master/images/reviewsSiteDemo.gif)
 
